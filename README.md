@@ -1,4 +1,4 @@
-# drewmich_twitter
+# twitter_wordcloud
 Command line python module that visualizes related terms on twitter using a wordcloud.
 
 This script relies on a file called twitter_cred.py that contains four variables which 
