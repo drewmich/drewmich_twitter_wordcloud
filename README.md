@@ -25,5 +25,6 @@ This breaks the program.
 
 For example, a user could run: "./twitter_proj.py show baseball"
 This produces the following output:
+![image](https://user-images.githubusercontent.com/47374581/91736395-9619cf00-eb7b-11ea-8bc8-55c3f7258fe8.png)
 
 
